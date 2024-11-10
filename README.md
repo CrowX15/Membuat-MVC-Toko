@@ -7,3 +7,5 @@ Kelas = 3P41A
 
 
 Note : Update Perbaikan Fitur hari ini 10/11/2024 old file pada 05/11/2024 sudah di hapus
+
+Terdapat Update V2 nya,dapat di kujungi melalui Releases Yang ada DIkanan
